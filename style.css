@@ -152,7 +152,6 @@ body {
     margin-bottom: 1.5rem;
 }
 
-/* Common styles for icons inside the input group */
 .input-group i {
     position: absolute;
     top: 50%;
@@ -163,15 +162,15 @@ body {
 
 /* Styles for the envelope icon */
 .input-group .fa-envelope {
-    left: 1rem; /* Position the envelope icon */
+    left: 1rem; 
 }
 
-/* Styles for the lock icon */
+
 .input-group .fa-lock {
-    left: 1rem; /* Same position as the envelope icon to align them properly */
+    left: 1rem; 
 }
 
-/* Styles for the eye toggle icon */
+
 .input-group #togglePassword {
     right: 1rem;
     cursor: pointer;
@@ -181,7 +180,7 @@ body {
 .input-group input {
     width: 28rem;
     height: 5rem;
-    padding: 1rem 1rem 1rem 4rem; /* Ensure padding on left side to accommodate icon */
+    padding: 1rem 1rem 1rem 4rem; 
     background-color: #ddd;
     border: none;
     border-radius: 0.5rem;
